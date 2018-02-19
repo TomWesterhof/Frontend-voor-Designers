@@ -3,6 +3,7 @@
 Opdracht 1 was het maken van een lijst met foto's die je moest kunnen filteren op kleur. We moesten verschillende versies maken en uiteindelijk zo ver mogelijk komen, zodat in de volgende les we elkaars opdrachten konden testen.
 
 Hieronder de linkjes naar de verschillende versies:
+
 [Versie 1](https://TomWesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v1/)
 
 [Versie 2](https://TomWesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v2/)
