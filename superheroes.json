@@ -6,7 +6,7 @@
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
+      "name" : "Molecule Man Mo",
       "age" : 29,
       "secretIdentity" : "Dan Jukes",
       "powers" : [
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
+      "name" : "Madame Uppercut Lisa",
       "age" : 39,
       "secretIdentity" : "Jane Wilson",
       "powers" : [
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name" : "Eternal Flame",
+      "name" : "Eternal Flame Eva",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
