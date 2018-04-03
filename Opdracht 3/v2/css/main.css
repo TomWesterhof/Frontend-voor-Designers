@@ -1,0 +1,382 @@
+/* https://coolors.co/0b0b0b-bb0a21-c0c1c6-78797b-ffffff */
+
+html {
+  font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+  color: white;
+  background-color: black;
+}
+
+h1, header section a {
+  font-size: 3rem;
+  margin: .3em 0;
+  display: inline-block;
+  margin-right: 4em;
+  color: white;
+  margin-left: 1.6em;
+}
+
+header section a {
+  margin: 0;
+}
+
+body {
+  margin-top: 9em;
+}
+
+header {
+  width: 100%;
+  background-color: #212122;
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  left: 0;
+}
+
+header div {
+  display: inline;
+}
+
+header section p:nth-of-type(1) {
+  margin-left: 26em;
+}
+
+header div {
+  cursor: pointer;
+}
+
+header div:after {
+    content: "";
+    background: url(../images/pijl2-01.svg);
+    background-repeat: no-repeat;
+    width: 1.3em;
+    height: 1.3em;
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 47px;
+    position: absolute;
+    transition: all .2s ease-out;
+    transform: rotate(90deg);
+}
+
+header div:hover:after {
+  margin-top: 50px;
+}
+
+header div:hover {
+  /* color: #D6D7DA; */
+  color: white;
+}
+
+header div.arrow::after {
+  margin-top: 50px;
+}
+
+form {
+  background-color: black;
+  position: absolute;
+  width: 10em;
+  text-align: center;
+  margin-left: 64em;
+  border: 1px solid #212122;
+  margin-top: -10px;
+  opacity: 0;
+  transition: opacity .2s ease-in-out;
+  transform: scale(1,0);
+}
+
+form.filternoshow {
+  opacity: 1;
+  transform: scale(1,1);
+}
+
+form input {
+  display: none;
+}
+
+form label {
+  display: block;
+  cursor: pointer;
+  color: #C0C1C6;
+  text-align: center;
+  padding: .7em 0;
+  transition: all .2s ease-in-out;
+}
+
+form label:hover {
+  color: white;
+}
+
+form input:hover + label {
+  background-color: #212122;
+
+}
+
+form input:checked + label {
+  background-color: #bb0a21;
+  color: white;
+}
+
+header section p {
+  display: inline-block;
+}
+
+header section {
+  width: 76em;
+  margin: auto;
+}
+
+main {
+  margin-top: 5em;
+}
+
+/* div>div>div {
+  transform: translateY(-8em);
+
+} */
+
+header p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+body>section:nth-of-type(1) {
+  margin-top: 100px;
+}
+
+body section:nth-of-type(2) {
+  width: 72em;
+  margin: 1em auto;
+  margin-top: 6em;
+}
+
+section article {
+  width: 30em;
+  padding: 3em 3em;
+  float: left;
+  /* background-color: #0B0B0B; */
+  /* padding: 1em; */
+  /* margin-top: 4em; */
+  position: relative;
+}
+
+section article {
+  background-color: #0B0B0B;
+
+}
+
+section p, section ul, main section a {
+  margin: 5px 0;
+  font-family: 'Roboto', 'Helvetica Neue', helvetica, arial, sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color: #C0C1C6;
+}
+
+section ul {
+  list-style-type: none;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  line-height: .9;
+  color: #DCDDDF;
+}
+
+article h2 {
+  height: 1.8em;
+  display: table-cell;
+  vertical-align: bottom;
+  padding-bottom: 20px;
+}
+
+img {
+  float: left;
+  width: 18em;
+  max-height: 427px;
+  margin-right: 3em;
+}
+
+article>p:nth-of-type(1):before {
+  content: "";
+  background: url(../images/kalender3-01.svg);
+  background-repeat: no-repeat;
+  width: 1.5em;
+  height: 1.5em;
+  display: inline-block;
+  margin-left: -30px;
+  margin-top: -4px;
+  position: absolute;
+}
+
+article>p:nth-of-type(1) {
+  margin-left: 30px;
+  margin-top: 25px;
+}
+
+article ul:nth-of-type(1):before {
+  content: "";
+  background: url(../images/genre2-01.svg);
+  background-repeat: no-repeat;
+  width: 2em;
+  height: 2em;
+  display: inline-block;
+  margin-left: -33px;
+  margin-top: -4px;
+  position: absolute;
+}
+
+article ul:nth-of-type(1) {
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+article>p:nth-of-type(2) {
+  margin-left: 307px;
+  margin-top: 35px;
+  position: absolute;
+  width: 170px;
+  color: #78797B;
+  bottom: 6em;
+}
+
+article>a:nth-of-type(2) {
+  margin-left: 45px;
+  margin-top: 35px;
+  margin-bottom: 0;
+  position: absolute;
+  width: 95px;
+  color: #C0C1C6;
+  bottom: 3em;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all .2s ease-out;
+  text-decoration: none;
+}
+
+article>a:nth-of-type(2):after {
+  content: "";
+  background: url(../images/pijl2-01.svg);
+  background-repeat: no-repeat;
+  width: 2em;
+  height: 2em;
+  display: inline-block;
+  margin-left: 3px;
+  position: absolute;
+  transition: all .2s ease-out;
+}
+
+article>a:nth-of-type(2):hover:after {
+  margin-left: 10px;
+}
+
+article>a:nth-of-type(2):hover {
+  /* color: #D6D7DA; */
+  color: white;
+}
+
+article>a:nth-of-type(1) {
+  margin: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+}
+
+header section div p:nth-of-type(2).filterkleurwit {
+  color: white;
+  font-weight: 400;
+}
+
+article>h2>a {
+  margin: inherit;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  line-height: .9;
+  color: #DCDDDF;
+  height: 1.8em;
+  display: table-cell;
+  vertical-align: bottom;
+  padding-bottom: 0px;
+  font-family: inherit;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all .2s ease-out;
+}
+
+article>h2>a:hover {
+  color: white;
+}
+
+section:nth-of-type(3) p {
+  font-size: 1.3em;
+  margin-left: 590px;
+  margin-top: 280px;
+  display: inline-block;
+}
+
+section:nth-of-type(3) img {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 267px;
+  position: absolute;
+}
+
+
+
+
+footer p:nth-of-type(1) {
+  margin-left: 870px;
+  margin-top: 55px;
+  color: #bb0a21;
+  bottom: 1em;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 500;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+footer a:nth-of-type(1) {
+  margin-top: 55px;
+  color: #C0C1C6;
+  bottom: 1em;
+  padding-left: 5px;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 400;
+  display: inline-block;
+  text-decoration: none;
+}
+
+footer p:nth-of-type(2) {
+  margin-left: 35px;
+  margin-top: 55px;
+  color: #bb0a21;
+  bottom: 1em;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 500;
+  display: inline-block;
+
+}
+
+footer a:nth-of-type(2) {
+  margin-top: 55px;
+  color: #C0C1C6;
+  bottom: 1em;
+  padding-left: 5px;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 400;
+  display: inline-block;
+  text-decoration: none;
+}

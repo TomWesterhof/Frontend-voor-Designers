@@ -4,4 +4,11 @@ Opdracht 3 bestond uit het inladen van een JSON file met behulp van Javascript. 
 
 Bekijk hieronder het resultaat:
 
-[Opdracht 3](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v1)
+[Versie 1](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v1)
+
+
+Na het maken van de eerste versie heb ik deze getest. Hier kwam uit dat er veel op de afbeeldingen werd geklikt, hier heb ik dus een linkje van gemaakt. Ook was het onduidelijk wanneer er een filter was toegepast, dit heb ik geprobeerd duidelijker aan te geven.
+
+Hieronder de laatste versie:
+
+[Versie 2](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v2)
