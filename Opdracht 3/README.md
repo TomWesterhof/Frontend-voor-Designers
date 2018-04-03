@@ -18,4 +18,3 @@ Hieronder de laatste versie:
 Omdat GitHub geen JSON files met http ondersteund, hier nogmaals de definitieve versie werkend:
 
 [Versie 2](http://tomwesterhof.nl/frontend/)
--------
