@@ -4,4 +4,4 @@ Opdracht 3 bestond uit het inladen van een JSON file met behulp van Javascript. 
 
 Bekijk hieronder het resultaat:
 
-[Opdracht 3](https://github.com/TomWesterhof/Frontend-voor-Designers/tree/master/Opdracht%203/v1)
+[Opdracht 3](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v1)
