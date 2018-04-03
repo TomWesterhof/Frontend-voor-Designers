@@ -12,3 +12,9 @@ Na het maken van de eerste versie heb ik deze getest. Hier kwam uit dat er veel 
 Hieronder de laatste versie:
 
 [Versie 2](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v2)
+
+
+-------
+Omdat GitHub geen JSON files met http ondersteund, hier nogmaals de definitieve versie werkend:
+[Versie 2](http://tomwesterhof.nl/frontend/)
+-------
