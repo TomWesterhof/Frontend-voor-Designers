@@ -157,3 +157,13 @@ function pijlrechts_functie() {
 }
 pijllinks.addEventListener('click', pijllinks_functie);
 pijlrechts.addEventListener('click', pijlrechts_functie);
+
+window.addEventListener('keydown', function (e) {
+  if (37 == e.keyCode) {
+    pijllinks_functie();
+  }
+
+  else if (39 == e.keyCode) {
+    pijlrechts_functie();
+  }
+});
