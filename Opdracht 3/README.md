@@ -9,12 +9,19 @@ Bekijk hieronder het resultaat:
 
 Na het maken van de eerste versie heb ik deze getest. Hier kwam uit dat er veel op de afbeeldingen werd geklikt, hier heb ik dus een linkje van gemaakt. Ook was het onduidelijk wanneer er een filter was toegepast, dit heb ik geprobeerd duidelijker aan te geven.
 
-Hieronder de laatste versie:
+Hieronder de geteste versie:
 
 [Versie 2](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v2)
+
+
+Deze geteste versie heb ik in de les tijdens de eerste beoordeling laten zien. Ik heb toen feedback gekregen om mijn code netter te maken en animaties toe te voegen.
+
+Hierbij de definitieve versie:
+
+[Versie 3](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v3)
 
 
 -------
 Omdat GitHub geen JSON files met http ondersteund, hier nogmaals de definitieve versie werkend:
 
-[Versie 2](http://tomwesterhof.nl/frontend/)
+[Versie 3](http://tomwesterhof.nl/frontend/)
