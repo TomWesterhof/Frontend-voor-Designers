@@ -2,7 +2,7 @@
 
 Opdracht 1 was het maken van een lijst met foto's die je moest kunnen filteren op kleur. Hierbij stonden de User Interface Design principes 4 (Keep users in control) en 11 (Strong visual hierarchies work best) centraal.
 
-We moesten verschillende versies maken en uiteindelijk zo ver mogelijk komen, zodat in de volgende les we elkaars opdrachten konden testen. In totaal hadden we twee weken voor deze opdracht.
+We moesten verschillende versies maken en uiteindelijk zo ver mogelijk komen, zodat we elkaars opdrachten in de les konden testen. In totaal hadden we twee weken voor deze opdracht.
 
 
 
@@ -19,8 +19,7 @@ In versie 2 en 3 was ik meer bezig met de lay-out van het ontwerp. Ik heb animat
 ![alt text](https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-1_versie-3.png "Opdracht 1, versie 3")
 
 
-
-
+---
 
 
 ### [Versie 4](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v4) & [Versie 5](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v5)

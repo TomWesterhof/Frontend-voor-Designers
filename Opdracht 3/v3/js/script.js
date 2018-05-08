@@ -3,7 +3,7 @@ var section = document.querySelector('section:nth-of-type(2)');
 var footer = document.querySelector('footer');
 var filmNumber = 1;
 
-var requestURL = 'https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v3/movies.json';
+var requestURL = 'http://dennistel.nl/movies';
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';

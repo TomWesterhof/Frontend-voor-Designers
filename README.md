@@ -1,6 +1,6 @@
 # Frontend voor Designers
 
-In het vak Frontend voor Designers leer je hoe je met HTML, CSS en Javascript snel en eenvoudig prototypes kan maken om je ontwerp-ideeën te testen inn een browser. Het vak bestaat uit een aantal opdrachten:
+In het vak Frontend voor Designers leer je hoe je met HTML, CSS en Javascript snel en eenvoudig prototypes kan maken om je ontwerp-ideeën te testen in een browser. Het vak bestaat uit een aantal opdrachten:
 
 [Opdracht 1](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201) - foto's filteren
 
