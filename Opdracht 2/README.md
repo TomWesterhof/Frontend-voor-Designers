@@ -14,8 +14,7 @@ In de eerste versie heb ik als eerst alles werkend gemaakt. Het ontwerp kan in d
 
 In versie 3 heb ik een animatie toegevoegd. Hierdoor ziet de gebruiker wat er gebeurd als hij een actie doet. Toen ik deze versie af had vond ik mijn ontwerp eigenlijk al klaar voor deze opdracht. Ik heb daarom besloten verder niks te veranderen en deze versie in de eerstvolgende les te laten testen.
 
-![alt text](https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-3.png "Opdracht 2, versie 3")
-
+<img src="https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-3.png" alt="Opdracht 2, versie 3">
 
 ---
 
@@ -26,4 +25,4 @@ Omdat ik al aan alle vereisten van de opdracht voldeed, kreeg ik tijdens de les 
 
 Dit heb ik geprobeerd zo goed mogelijk toe te passen. Met animaties heb ik geprobeerd de gebruiker te laten weten dat de header en knoppen niet opeens verdwijnen, maar dat deze tijdelijk verborgen zijn. Ik heb dit in versie 5 nog verder geprobeerd door te voeren door ook de cursor te laten verdwijnen. De gebruiker wordt hiermee volledig uitgenodigd om de pijltjestoetsen te gebruiken.
 
-![alt text](https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5-1.png "Opdracht 2, versie 5-1"){:width="50%"} ![alt text](https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5-2.png "Opdracht 2, versie 5-2"){:width="50%"}
+<img src="https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5-1.png" width="50%" alt="Opdracht 2, versie 5-1"><img src="https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5-2.png" width="50%" alt="Opdracht 2, versie 5-2">
