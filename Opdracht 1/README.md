@@ -16,7 +16,9 @@ In de eerste versie heb ik geprobeerd alles werkend te krijgen. Ik wilde eerst z
 
 In versie 2 en 3 was ik meer bezig met de lay-out van het ontwerp. Ik heb animaties toegevoegd en de teksten zijn contrastvoller waardoor ze beter te lezen zijn. Ik heb versie 3 in de les laten zien voor feedback.
 
-![alt text](https://github.com/TomWesterhof/Frontend-voor-Designers/blob/master/Screenshots/opdracht-1_versie-3.png)
+![alt text](https://github.com/TomWesterhof/Frontend-voor-Designers/blob/master/Screenshots/opdracht-1_versie-3.png "Opdracht 1, versie 3")
+
+
 
 
 
@@ -29,3 +31,5 @@ In de tweede les gingen we elkaars opdracht testen en kreeg je feedback op wat j
 ### [Versie 6](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v6)
 
 Naast de feedback die ik heb gekregen en verwerkt in versie 4 en 5 kregen we van de docent de opdracht om naast 'click' ook nog een andere user interactie te gebruiken die nuttig was voor jouw opdracht. Hiervoor heb ik in versie 6 de user interactie 'keydown' gebruikt. Wanneer je op de b (blue), r (red), y (yellow) of g (green) klikt pas je een filter toe die bij de desbetreffende kleur past. Daarnaast kan je de filter verwijderen door op backspace te klikken.
+
+![alt text](https://github.com/TomWesterhof/Frontend-voor-Designers/blob/master/Screenshots/opdracht-1_versie-6.png "Opdracht 1, versie 6")
