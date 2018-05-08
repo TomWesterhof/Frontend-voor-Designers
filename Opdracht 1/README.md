@@ -12,7 +12,7 @@ We moesten verschillende versies maken en uiteindelijk zo ver mogelijk komen, zo
 In de eerste versie heb ik geprobeerd alles werkend te krijgen. Ik wilde eerst zorgen dat het technische deel werkte, zodat ik daarna kon gaan vormgeven zonder dat daar later veel dingen nog gewijzigd voor moesten worden.
 
 
-### [Versie 2](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v2) & [Versie 3](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v3)
+### [Versie 2](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v2) & [versie 3](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v3)
 
 In versie 2 en 3 was ik meer bezig met de lay-out van het ontwerp. Ik heb animaties toegevoegd en de teksten zijn contrastvoller waardoor ze beter te lezen zijn. Ik heb versie 3 in de les laten zien voor feedback.
 
@@ -22,7 +22,7 @@ In versie 2 en 3 was ik meer bezig met de lay-out van het ontwerp. Ik heb animat
 ---
 
 
-### [Versie 4](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v4) & [Versie 5](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v5)
+### [Versie 4](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v4) & [versie 5](https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%201/v5)
 
 In de tweede les gingen we elkaars opdracht testen en kreeg je feedback op wat je nog zou kunnen verbeteren. Zo kreeg ik bijvoorbeeld de feedback dat de user interface en hierarchie uitgebreider konden. Dit was ook naar aanleiding van de User Interface Design principes 4 en 11. Dit heb ik in versie 4 geprobeerd zo goed mogelijk toe te passen. Ik heb bijvoorbeeld duidelijkere feedback gegeven wanneer de gebruiker een filter heeft toegepast en wannneer er wel of niet een filter verwijderd kan worden. Helaas moest ik hiervoor wel de animaties laten sneuvelen, maar deze heb ik in versie 5 weer terug laten komen.
 
