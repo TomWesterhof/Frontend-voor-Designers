@@ -16,7 +16,7 @@ In de eerste versie heb ik geprobeerd alles werkend te krijgen. Ik wilde eerst z
 
 In versie 2 en 3 was ik meer bezig met de lay-out van het ontwerp. Ik heb animaties toegevoegd en de teksten zijn contrastvoller waardoor ze beter te lezen zijn. Ik heb versie 3 in de les laten zien voor feedback.
 
-![alt text](https://github.com/TomWesterhof/Frontend-voor-Designers/tree/master/Screenshots/opdracht-1_versie-3.png)
+![alt text](https://github.com/TomWesterhof/Frontend-voor-Designers/blob/master/Screenshots/opdracht-1_versie-3.png)
 
 
 
