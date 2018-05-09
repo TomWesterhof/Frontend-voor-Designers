@@ -25,4 +25,9 @@ Omdat ik al aan alle vereisten van de opdracht voldeed, kreeg ik tijdens de les 
 
 Dit heb ik geprobeerd zo goed mogelijk toe te passen. Met animaties heb ik geprobeerd de gebruiker te laten weten dat de header en knoppen niet opeens verdwijnen, maar dat deze tijdelijk verborgen zijn. Ik heb dit in versie 5 nog verder geprobeerd door te voeren door ook de cursor te laten verdwijnen. De gebruiker wordt hiermee volledig uitgenodigd om de pijltjestoetsen te gebruiken.
 
-<img src="https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5-1.png" width="50%" alt="Opdracht 2, versie 5-1"><img src="https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5-2.png" width="50%" alt="Opdracht 2, versie 5-2">
+<img src="https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5.gif" width="100%" alt="Opdracht 2, versie 5-1">
+
+
+
+
+<img src="https://tomwesterhof.github.io/Frontend-voor-Designers/Screenshots/opdracht-2_versie-5-2.png" width="50%" alt="Opdracht 2, versie 5-2">
